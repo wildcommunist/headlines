@@ -1,0 +1,11 @@
+[package]
+name = "reader"
+version = "0.1.0"
+edition = "2021"
+authors = ["WildCommunist"]
+description = "Simple news reader with a user interface"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eframe = "0.14.0"
